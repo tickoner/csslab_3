@@ -1,0 +1,11 @@
+.icon {
+  height: 180px;
+  width: 160px;
+  background: url('elements.png') no-repeat;
+}
+.icon.ok {
+  background-position: 0px -180px;
+}
+.icon.letter {
+  background-position: 0px -360px;
+}

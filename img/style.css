@@ -1,0 +1,38 @@
+#height {
+	height: 200px;
+}
+
+
+#max-height {
+	max-height: 150px;
+}
+
+#min-height {
+	min-height: 300px;
+}
+
+#width {
+	width: 600px;
+}
+
+#max-width {
+	max-width: 550px;
+}
+
+#min-width {
+	min-width: 700px;
+}
+
+#maxheight-maxwidth {
+	max-height: 300px;
+	max-width: 300px;
+}
+
+#minheight-minwidth {
+	min-height: 150px;
+	min-width: 600px;
+}
+
+#opacity {
+	opacity: .3;
+}

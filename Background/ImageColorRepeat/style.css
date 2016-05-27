@@ -1,0 +1,17 @@
+#color {
+  background-color: #222;
+  height: 400px;
+	width: 400px;
+}
+#image {
+  height: 400px;
+  width: 400px;
+  background-image: url('M_Power.png');
+}
+
+#repeat {
+	background-image: url('M_Power.png');
+	background-repeat: repeat-x;
+	width: : 1600px;
+  height: 300px
+}

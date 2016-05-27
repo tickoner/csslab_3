@@ -1,0 +1,32 @@
+h1  {
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
+h2  {
+  text-align: center;
+  font-size: 30px;
+  color: #333;
+}
+:link {
+	color: #777;
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #66c;
+	text-decoration: overline;
+}
+
+a:visited {
+	color: #a41;
+}
+p {
+  text-align: center;
+  color: gray;
+}
